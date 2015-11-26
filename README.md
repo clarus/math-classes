@@ -1,4 +1,16 @@
-## Compilation
+# Math Classes
+>  A library of abstract interfaces for mathematical structures in Coq.
+
+## Install with OPAM
+Add the [Coq repository](coq.io/opam/):
+
+    opam repo add coq-released https://coq.inria.fr/opam/released
+
+and run:
+
+    opam install coq-math-classes
+
+## Install from source
 Known to compile with Coq 8.4.pl3.
 
 ## Directory structure
